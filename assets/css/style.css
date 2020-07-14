@@ -33,7 +33,7 @@ body{
   font-weight: 700;
   font-size: 20px;
   line-height: 27px;
-
+  width: 75%;
 }
 
 .type {
@@ -115,5 +115,9 @@ body{
     padding: 20px 10px;
     display: flex;
     justify-content: center;
+  }
+  .msg {
+
+    width: 100%;
   }
 }
